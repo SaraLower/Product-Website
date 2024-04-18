@@ -1,0 +1,23 @@
+.header {
+background-color: brown;
+font-size: 500%;
+text-align: center;
+color: rgb(202, 232, 199);
+padding: 2%;
+}
+.header2 {
+text-align: center;
+background-color: rgb(125, 22, 22);
+color: rgb(218, 13, 13);
+padding: 1%;
+}
+a {
+    color: rgb(232, 232, 232);
+    font-size: 110%;
+    padding: 3%;
+}
+body {
+    background-color: rgb(222, 186, 186);
+}
+
+
