@@ -28,19 +28,36 @@ color: rgb(235, 237, 239);
 padding: 7%;
 font-size: 130%;
 }
-.products { 
+.colspace {
+    padding: 3%;
+}
+.colspace2 {
+    padding: 6%;
+}
+.full {
     display: flex;
-    flex-direction: column;
-    
+   align-items: center;
+   text-align: center;
+   
+}
+.products { 
+  display: flex;
+  flex-direction: column;
+  
+}
+.yep {
+display: flex;
+flex-direction: column;
 }
 section {
     background-color: rgb(204, 146, 146);
     display: flex;
     flex-direction: column;
-    height: 2cm;
-    width: 2cm;
+    height: 10cm;
+    width: 10cm;
     text-align: center;
     color: rgb(233, 234, 235);
+    
 }
 
 .section4 {
