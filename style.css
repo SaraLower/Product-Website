@@ -20,7 +20,9 @@ body {
     background-color: rgb(222, 186, 186);
 }
 .space2 {
-    padding: 1%;
+    padding: 5%;
+
+
 }
 .section2 { 
 background-color: rgb(204, 146, 146);
@@ -57,7 +59,7 @@ section {
     width: 10cm;
     text-align: center;
     color: rgb(233, 234, 235);
-    
+   font-size: 300%;
 }
 
 .section4 {
